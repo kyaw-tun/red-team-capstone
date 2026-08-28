@@ -10,8 +10,8 @@ nmap -sC -Pn -sV 192.168.122.124
 
 The options used in the scan were:
 
-| Option | Description |
-|---|---:|
+| Option | Purpose |
+|---|---|
 | -sC | Runs Nmap's default scripts to gather additional information about the target. |
 | -Pn | Treats the target as being online without first sending ping requests. |
 | -sV | Detects the services and their versions running on the open ports. |
