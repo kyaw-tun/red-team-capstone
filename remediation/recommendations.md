@@ -14,7 +14,7 @@ Priority: Critical
 
 The permissions and configuration of the `find` binary should be reviewed and corrected to prevent it from being abused for privilege escalation.
 
-During the assessment, the find binary was identified as a potential privilege-escalation path. Its permissions should follow the principle of least privilege, and unnecessary special permissions should be removed.
+During the assessment, the `find` binary was identified as a potential privilege-escalation path. Its permissions should follow the principle of least privilege, and unnecessary special permissions should be removed.
 
 Priority: High
 
