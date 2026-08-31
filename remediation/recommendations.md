@@ -10,17 +10,17 @@ During this assessment, the vulnerable phpTax application was used as the initia
 
 Priority: Critical
 
-## 2. Keep the Ubuntu Operating System Updated
+## 2. Secure the `find` Binary
+The permissions and configuration of the `find` binary should be reviewed and corrected to prevent it from being abused for privilege escalation.
+
+During the assessment, the find binary was identified as a potential privilege-escalation path. Its permissions should follow the principle of least privilege, and unnecessary special permissions should be removed.
+
+Priority: High
+
+## 3. Keep the Ubuntu Operating System Updated
 
 The Ubuntu operating system and its installed packages should be updated regularly with the latest security patches.
 
 An outdated operating system can contain known vulnerabilities that attackers can exploit. Establishing a regular update and patching process will reduce the system's exposure to publicly known vulnerabilities.
-
-Priority: High
-
-## 3. Secure the `find` Binary
-The permissions and configuration of the `find` binary should be reviewed and corrected to prevent it from being abused for privilege escalation.
-
-During the assessment, the find binary was identified as a potential privilege-escalation path. Its permissions should follow the principle of least privilege, and unnecessary special permissions should be removed.
 
 Priority: High
