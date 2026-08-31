@@ -17,10 +17,12 @@ During the assessment, the find binary was identified as a potential privilege-e
 
 Priority: High
 
-## 3. Keep the Ubuntu Operating System Updated
+## 3. Upgrade and Maintain the Ubuntu Operating System
 
-The Ubuntu operating system and its installed packages should be updated regularly with the latest security patches.
+At the time the original lab was created, Ubuntu 18.04 LTS was still within its standard support life-cycle. However, Ubuntu 18.04 reached the end of standard security support on May 31, 2023. At the time of this assessment, the system was therefore running an operating system that was no longer receiving standard security updates.
 
-An outdated operating system can contain known vulnerabilities that attackers can exploit. Establishing a regular update and patching process will reduce the system's exposure to publicly known vulnerabilities.
+[Ubuntu 18.04 LTS Standard Support](https://ubuntu.com/blog/18-04-end-of-standard-support)
+
+The system should be upgraded to a currently supported Ubuntu LTS release. Security updates should also be applied regularly after the upgrade to ensure that the operating system and installed software remain protected against known vulnerabilities.
 
 Priority: High
