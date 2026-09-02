@@ -18,5 +18,5 @@
 - [CVE-2012-10037 — NVD](https://nvd.nist.gov/vuln/detail/CVE-2012-10037)
 - [Exploit-DB — phpTax Exploit #25849](https://www.exploit-db.com/exploits/25849)
 - [Exploit-DB — phpTax Exploit #21665](https://www.exploit-db.com/exploits/21665)
-- [Exploit-DB — phpTax Exploit #21899](https://www.exploit-db.com/exploits/21899)
+- [Exploit-DB — phpTax Exploit #21833](https://www.exploit-db.com/exploits/21833)
 - [GTFOBins — `find`](https://gtfobins.github.io/gtfobins/find/)
