@@ -81,7 +81,7 @@ This attack path demonstrates how the initial web application vulnerability coul
 
 The assessment identified phpTax vulnerability and SUID misconfiguration that could be chained to achieve full compromise of the target.
 
-### Initial Access — phpTax
+### Initial Access — phpTax (CVE-2012-10037)
 
 The exposed phpTax web application contained a known vulnerability that could be exploited to gain initial access to the system. Multiple exploit implementations were investigated and tested. The Metasploit implementation was ultimately successful and provided access as the `www-data` user.
 
