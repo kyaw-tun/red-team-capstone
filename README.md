@@ -79,7 +79,7 @@ This attack path demonstrates how the initial web application vulnerability coul
 
 ## Assessment Findings
 
-The assessment identified vulnerabilities and misconfigurations that could be chained to achieve full compromise of the target.
+The assessment identified phpTax vulnerability and SUID misconfiguration that could be chained to achieve full compromise of the target.
 
 ### Initial Access — phpTax
 
