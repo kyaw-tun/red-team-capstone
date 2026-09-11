@@ -12,7 +12,7 @@ The goal was to identify exposed services, find vulnerabilities, gain access to 
 
 The assessment began with network reconnaissance using Nmap to identify exposed ports and services on the target.
 
-Service and version detection were used to identify the software versions running on the discovered ports. The results were then reviewed to determine which services required further investigation.
+Service and version detection were performed to identify the software versions running on the discovered ports. The results were then reviewed to determine which services required further investigation.
 
 ### 2. Web Application Identification and Vulnerability Research
 
