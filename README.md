@@ -93,7 +93,7 @@ After gaining initial access, local enumeration identified a SUID-enabled `find`
 
 By chaining the initial-access vulnerability with the SUID misconfiguration, it was possible to progress from an exposed web application to root-level access on the target system.
 
-For the detailed risk assessment, see [Risk Assessment](/findings/risks-assessment.md).
+For the detailed risk assessment, see [Risk Assessment](/findings/risk-assessment.md).
 
 For a reflection on the assessment and the lessons learned during the process, see [Lessons Learned](/findings/lessons-learned.md).
 
